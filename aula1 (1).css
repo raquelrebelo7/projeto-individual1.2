@@ -1,0 +1,156 @@
+body {
+  background-image: url(./img/copie-o-fundo-branco-ondulado-do-espaco_23-2148845471.jpg);
+}
+.mypage-div {
+  background-color: rgb(76, 90, 153);
+  color: black;
+  height: auto;
+  text-align: center;
+  margin: auto;
+  margin-top: auto;
+  padding: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#img_pf {
+  background-image: url(./img/IMG_20220507_122154_055_2.jpg);
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  border-style: groove;
+}
+.main-div {
+  background-color: aliceblue;
+  color: black;
+  height: auto;
+  text-align: center;
+  width: auto;
+  margin: auto;
+  padding-top: auto;
+  margin-top: auto;
+}
+#hb {
+  height: 200px;
+  width: 200px;
+  margin-left: 10px;
+  border-width: 5px;
+  border-style: groove;
+  border-color: rgb(58, 69, 117);
+}
+.page-div {
+  background-color: rgb(76, 90, 153);
+  color: black;
+  height: auto;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.pg-div {
+  background-color: aliceblue;
+  color: black;
+  height: auto;
+  text-align: center;
+  margin: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#insta {
+  background-image: url(./img/instapngegg.png);
+  background-size: cover;
+  height: 30px;
+  width: 30px;
+  border-radius: 10px;
+  border: 0;
+}
+#insta:hover {
+  cursor: pointer;
+}
+#git {
+  background-image: url(./img/25231.png);
+  background-size: cover;
+  height: 30px;
+  width: 30px;
+  border-radius: 10px;
+  border: 0;
+}
+#git:hover {
+  cursor: pointer;
+}
+#face{
+    background-image: url(./img/facebookpngegg.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    border: 0;
+}
+#face:hover{
+    cursor: pointer;
+}
+#linkedin{
+    background-image: url(./img/linkedinpngegg.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    border: 0;
+}
+#linkedin:hover{
+    cursor: pointer;
+}
+#ctt {
+  text-decoration: underline;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-style: italic;
+  font-size: x-large;
+}
+p {
+  font-size: large;
+  font-style: normal;
+}
+h1,
+h2,
+h3,
+h4 {
+  text-decoration: underline;
+}
+hr {
+  background-color: black;
+  background-color: black;
+  height: 4px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+#form-h3 {
+  margin: 0;
+  padding: 20px 0;
+}
+.forms{
+    background-color: aliceblue;
+    width: 520px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2), 0 6px 20px 0 rgba(0, 0, 0,19);
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+#form{
+    width: 300px;
+    height: 20px;
+    border-radius: 4px;
+    padding: 10px 0;
+    margin: 10px 0;
+}
+#textarea{
+    border-radius: 4px;
+    width: 300px;
+    margin: 10px 0;
+}
+.links{
+  margin-top: 4px;
+}
